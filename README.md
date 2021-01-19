@@ -1,2 +1,0 @@
-# RadioChatSite
-アニラジチャットのWebサイト
